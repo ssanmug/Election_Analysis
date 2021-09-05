@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 Tom, a Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressional election using Python:
@@ -28,5 +28,18 @@ The election analysis shows that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 votes. 
 
 ## Challenge Overview
+
+### Overview of the Analysis
+
+#### Purpose
+
+The purpose of this election audit analysis is to provide the election commission with additional information about county turnout and voting percentages. These data can help the commission understand voting patterns and prepare for more significant elections.   
+
+The below data was collected in this additional analysis to complete the election audit:
+- name of each county and each county's voter turnout
+- the percentage of votes from each county out of the total count 
+- the county with the highest turnout
+
+The following report will outline the significant outcomes from the election audit analysis and provide examples of how the election commission can modify the script for other elections. 
 
 ## Challenge Summary
